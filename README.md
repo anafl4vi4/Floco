@@ -1,1 +1,1 @@
-!["floco"](floco.gif)
+!["floco"](Floco.gif)
